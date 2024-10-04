@@ -15,7 +15,7 @@ I'm a passionate **Computer Engineering student** from **Addis Ababa, Ethiopia**
 - **Version Control**: Git, GitHub
 
 ### 👨‍💻 All of my projects are available on:
-- [My GitHub Repositories](https://github.com/your-username)
+- [My GitHub Repositories](https://github.com/yosephw17)
 
 ### 🌱 I’m currently working on:
 - Improving my full-stack development skills and building cool projects using **Laravel** and **React.js**
