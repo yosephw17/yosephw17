@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Youseph Wondu
+# Hi there 👋, I'm Yoseph Wondu
 
 I'm a passionate **Computer Engineering student** from **Addis Ababa, Ethiopia**, currently studying at **Bahir Dar University**. I love building web applications, solving problems, and learning new technologies. Here's a bit about me!
 
