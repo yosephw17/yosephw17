@@ -26,7 +26,7 @@ I'm a passionate **Computer Engineering student** from **Addis Ababa, Ethiopia**
 
 ### 📫 How to reach me:
 - Email: [yosephwondu5@gmail.com](mailto:yosephwondu5@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yoseph-wondu-b610272a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [my LinkedIn Profile](https://www.linkedin.com/in/yoseph-wondu-b610272a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### ⚡ Fun fact:
 - I'm a huge fan of exploring new technologies and **love coding while listening to music**!
@@ -53,4 +53,4 @@ I'm a passionate **Computer Engineering student** from **Addis Ababa, Ethiopia**
 ---
 
 **Youseph Wondu**  
-[GitHub]([https://github.com/your-username](https://github.com/yosephw17)) | [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yoseph-wondu-b610272a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[GitHub]([https://github.com/yosephw17](https://github.com/yosephw17)) | [LinkedIn]([https://linkedin.com/in/yosephwondu-linkedin](https://www.linkedin.com/in/yoseph-wondu-b610272a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
